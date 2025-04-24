@@ -1,0 +1,1 @@
+In this application, users can see all currencies and exchange rates. Also, foreign exchange calculations can be made. Because of the Room database, users can always see the currencies they have added to their favorites, even if they close the application.
